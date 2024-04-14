@@ -1,0 +1,163 @@
+.desktop-3-child,
+.desktop-3-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 115px;
+}
+.desktop-3-item {
+  top: 37px;
+  left: 553px;
+  border-radius: var(--br-3xs);
+  width: 334px;
+  height: 41px;
+}
+.tm-kim4,
+.trang-ch1 {
+  position: absolute;
+  top: 50px;
+}
+.tm-kim4 {
+  left: 573px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray);
+}
+.trang-ch1 {
+  left: 941px;
+  cursor: pointer;
+}
+.gi-hng2,
+.ng-k-ti,
+.ti-khon1 {
+  position: absolute;
+  top: 50px;
+  left: 1100px;
+}
+.gi-hng2,
+.ng-k-ti {
+  left: 1256px;
+}
+.ng-k-ti {
+  top: 174px;
+  left: 635px;
+  font-size: var(--font-size-xl);
+  color: var(--color-red);
+}
+.ng-k-ti1,
+.nu-cha-c {
+  position: absolute;
+  left: 87px;
+}
+.ng-k-ti1 {
+  top: 303px;
+  font-size: var(--font-size-xl);
+}
+.nu-cha-c {
+  top: 347px;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-child3,
+.desktop-3-inner {
+  position: absolute;
+  top: 417px;
+  left: 87px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 408px;
+  height: 50px;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-child3 {
+  top: 495px;
+  left: 775px;
+}
+.desktop-3-child2,
+.desktop-3-child3 {
+  top: 417px;
+}
+.desktop-3-child3 {
+  top: 495px;
+  left: 87px;
+}
+.email1,
+.h,
+.mt-khu,
+.tn {
+  position: absolute;
+  top: 432px;
+  left: 114px;
+  color: var(--color-gray);
+}
+.email1,
+.mt-khu,
+.tn {
+  left: 805px;
+}
+.email1,
+.mt-khu {
+  top: 510px;
+  left: 114px;
+}
+.mt-khu {
+  left: 805px;
+}
+.desktop-3-child4 {
+  position: absolute;
+  top: 588px;
+  left: 87px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-red-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 110px;
+  height: 40px;
+}
+.ng-k2,
+.ng-nhp2 {
+  position: absolute;
+  top: 598px;
+}
+.ng-k2 {
+  left: 111px;
+  color: var(--color-white);
+}
+.ng-nhp2 {
+  left: 238px;
+  cursor: pointer;
+}
+.desktop-3-child5 {
+  position: absolute;
+  top: 616.5px;
+  left: 237.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 83px;
+  height: 1px;
+}
+.logo-3-icon {
+  position: absolute;
+  top: 24px;
+  left: 39px;
+  width: 143px;
+  height: 71px;
+  object-fit: cover;
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
